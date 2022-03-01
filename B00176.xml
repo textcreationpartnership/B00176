@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prognosticacion, drawen out of the bookes of Ipocras, Avicen, and other notable auctours of physycke, shewynge the daunger of dyvers syckenesses, that is to saye, whether in peryl of death be in them or not, the pleasure of almyghty God reseruyd..</title>
+            <title>Prognostica. English</title>
+            <author>Hippocrates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1545</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00176</idno>
+            <idno type="STC">STC 13521.7</idno>
+            <idno type="STC">ESTC S93000</idno>
+            <idno type="EEBO-CITATION">54532366</idno>
+            <idno type="OCLC">ocm 54532366</idno>
+            <idno type="VID">180799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2136:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prognosticacion, drawen out of the bookes of Ipocras, Avicen, and other notable auctours of physycke, shewynge the daunger of dyvers syckenesses, that is to saye, whether in peryl of death be in them or not, the pleasure of almyghty God reseruyd..</title>
+                  <title>Prognostica. English</title>
+                  <author>Hippocrates.</author>
+                  <author>Avicenna, 980?-1037.</author>
+               </titleStmt>
+               <extent>[30] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Jmprynted by me Robert Wyer. Cum priuilegio, ad imprimendum solum.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1545].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publisher from colophon; date suggested by STC (2nd ed.).</note>
+                  <note>Printers' device at colophon (McK. 68 &amp; 69); initials.</note>
+                  <note>Cut on t.p. enclosed on sides by caption: The Pronosticacion for this yeare. Above (in ms.): 1550.</note>
+                  <note>Signatures: A-D⁴.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prognosis --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180799:1"/>
+            <pb facs="tcp:180799:1" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">P</seg>ROGNO<g ref="char:EOLhyphen"/>STICACION, Dra<g ref="char:EOLunhyphen"/>wen out of the Bookes of Ipocras, Auicen, and other no<g ref="char:EOLhyphen"/>table Auctours of Phyſycke, ſhewynge the daunger of dyuers ſyckeneſſes, that is to ſaye, whether in peryl of death be in them or not, the pleaſure of almyghty God reſeruyd.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of old man pointing</figDesc>
+                  <head>¶ The Pronoſtica<g ref="char:EOLhyphen"/>cion for this yeare.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:180799:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of Hippocrates(?) and Avicenna</figDesc>
+                  <head>Ipocras, and Auicen.</head>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="prognostication">
+            <pb facs="tcp:180799:2" rendition="simple:additions"/>
+            <head>¶ Pronoſticacion of the Feuer or Ague, whiche is called in laten Febris offimera.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat feuer after Auicen is lyght to heale, and harde to knowe. He y<hi rend="sup">t</hi> knoweth it can ſaye and afferme the ſame. For the feuer I Effirme of his kynde duryth not, but by ſpace of one naturall daye. And therfore he is named or takyth his name of Effimeron a worde of greke whiche is a name of a cetayne fyſſhe in laten. For that fyſſhe dyeth y<hi rend="sup">e</hi> ſame daye that he is gendryd. And ſo it is of this Feuer, for of his nature he en<g ref="char:EOLhyphen"/>durith but .xxiiij. houres. And then he endeth and goeth awaye with vape<g ref="char:EOLhyphen"/>rouſe ſwete, Notwithſtandyng by oc<g ref="char:EOLunhyphen"/>caſion of yll gouernaunce, and ſome nature of the body, he enduryth ſom<g ref="char:EOLunhyphen"/>tyme the ſpace of a day incluſyue, and yf it laſte longer it is not the effomer
+<pb facs="tcp:180799:3"/> Ague. And therfore yf the pulſe doth not reſte ſoone after. And yf the pulſe be dyuers and the matyer vndygeſtyd it is a tokyn that it paſſeth into a pu<g ref="char:EOLunhyphen"/>tryd Feuer eſſpecially with ſtenche of theſe whiche co<g ref="char:cmbAbbrStroke">̄</g>meth forthe from the body of the perſone.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Feuer or Ague called in laten Febris canſon.</head>
+            <p>THis diſſeaſe is very ſoone endyd and with terryble or ferefull ac<g ref="char:EOLhyphen"/>cydentes, and yf all the tokyn apere good fro begynnynge of the diſſeaſe, the pacient ſhall be delyueryd in the. 4. day or within. And yf they apere yl he ſhal dye the .iiij. day or within, but ſomtyme it contynueth tyll the .vij. day, It can not be prolongyd farther For nature of the diſſeaſe, and mole<g ref="char:EOLhyphen"/>ſtion of the accidentes doth not ſuffer it to be tedyous or of longe contynu<g ref="char:EOLhyphen"/>aunce.
+<pb facs="tcp:180799:3" rendition="simple:additions"/> It is not accordynge neceſſary to put the good and euyll Sygnes of the Agues here, for we haue put them in another place. Notwithſtandynge Ipocras wold Pronoſticque that Ali<g ref="char:EOLunhyphen"/>enacion doth dyſſolue any trymblyn<g ref="char:EOLhyphen"/>ges, eyther ſhakynges, that are cau<g ref="char:EOLhyphen"/>ſed of the Feuer Canſon.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Feuer Tercian.</head>
+            <p>
+               <hi>A</hi> Trewe Tercian is endyd in .7. poyntes or within, and ſo is en<g ref="char:EOLunhyphen"/>dyd the .9. poynte or within. And he cauſeth payne &amp; vexacio<g ref="char:cmbAbbrStroke">̄</g> .12. houres or within. And the meane ſeaſon it is moch paynful he vixeth .36. dayes, In the fyrſt poynte it is lytell and weke. In the ſeconde poynte ſtronge. And in the thyrde moſt ſtrongeſt. At the .ix. it is in the laſt. And there it areſteth w<hi rend="sup">t</hi> moſte daungerouſe and wycked acty<g ref="char:EOLhyphen"/>dentes. At the .5. poynte it beginneth to waxe weake.</p>
+         </div>
+         <div type="prognostication">
+            <pb facs="tcp:180799:4"/>
+            <head>¶ Pronoſticacion of the blody Feuer.</head>
+            <p>YF yelowe or blacke whelkes do a pere, or as Auicen ſayth, yf the pacient harde ſownde or rumblyng in his belly lyke thunder, or yf his eyes water by reaſon of malyce of the dy<g ref="char:EOLhyphen"/>ſeaſe? Or yf he can ſcant drawe his breth, or be ſtopped, or haue impoſtu<g ref="char:EOLhyphen"/>mes in the wayes where as the breth doth paſſe. And yf ye perceyue hym ve<g ref="char:EOLunhyphen"/>rye paynefull after ſlepe. All theſe are tokyns of death.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Feuer quartan.</head>
+            <p>THe feuer quartan of blode is ſoo<g ref="char:EOLunhyphen"/>ner heled and ſhorter then other of other Humours. Then nexte that whiche is of colour. Then that which is of flewme. Then the worſt of Me<g ref="char:EOLhyphen"/>lancoly. The feuer quartan after his commen courſe laſtyth a yere. For as
+<pb facs="tcp:180799:4" rendition="simple:additions"/> the ſharpe Agues folow the monyng of the Moone, ſo doth the Cronyckes folowe mouynge of the Sonne. And ſomtyme it laſteth .2. yeres, as Auicen ſayth. And yf the pacient vſe yll dyet longe, he dyeth of it.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Cotidian Feuer.</head>
+            <p>YF we may perceyue in the begyn<g ref="char:EOLunhyphen"/>nynge wylfull vomet, and in the ende of the fyt ſwete, it is a very good token. For that betokeneth that the ſyckenes is curable and ſhorte, for of that is ſygnified y<hi rend="sup">t</hi> the mattier is not very groſe and viſcouſe and the pores ar not thycke. This deſeaſe commeth lyghtly with moche neſynges and al<g ref="char:EOLunhyphen"/>teracions with a certayne aſtonyen<g ref="char:EOLhyphen"/>ges, and lytell thurſte with ſwellynge and payne of the face, and they falleth lyghtly into ſwete, and haue contynu<g ref="char:EOLunhyphen"/>all payne of the ſtomacke.</p>
+         </div>
+         <div type="prognostication">
+            <pb facs="tcp:180799:5"/>
+            <head>¶ Pronoſticacion of the Feuer Ethycke.</head>
+            <p>THe fyrſt kynde of it is ſoone he<g ref="char:EOLhyphen"/>led, but the thyrde neuer, but by the powre of GOD. But the meane is of meane maner. So that yf it be cu<g ref="char:EOLhyphen"/>ryd it is with great diffycultie, whan his nayles croketh, then is he in the ſtate certayne to dye, but whan his heare falleth then is he nere death.</p>
+            <p>And yf he chaunce to haue y<hi rend="sup">e</hi> flux or laſ<g ref="char:EOLunhyphen"/>ke, then is he at poynte of death. For that deſtroyeth of the pacyent verye ſoone, whan his legges begynneth to ſwell, then can he lyue no longer, but commonlye they dye within .3. dayes. And the pacyentes of the Feuer quar<g ref="char:EOLunhyphen"/>tan Ethicke, can not well deſerue of heate for the dyuers yll compleccion, is made equal, and it is not feled, and whan the feuer Ethicke is compoun<g ref="char:EOLhyphen"/>de with the putred mattier, he is har<g ref="char:EOLunhyphen"/>de to be knowen.</p>
+         </div>
+         <div type="prognostication">
+            <pb facs="tcp:180799:5" rendition="simple:additions"/>
+            <head>¶ Pronoſticacion of Swete.</head>
+            <p>THE ſwete ryſeth from the place where the mattier of the diſea<g ref="char:EOLhyphen"/>ſe is, or nere it. Where the ſwete is, there is the ſyckenes. The ſwete whi<g ref="char:EOLunhyphen"/>che co<g ref="char:cmbAbbrStroke">̄</g>meth now and then is nought. Swete with wekenes of the pulſe, is nought. Hote ſwete in the hede, in the contynual feuer onely is nought. And yf it be colde, it betokeneth death. Yf the Ague be ſharpe and ſlowe, it beto<g ref="char:EOLunhyphen"/>keneth length of the deſeaſe.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the pockes.</head>
+            <p>YF they be fewe and aperyng ſoo<g ref="char:EOLunhyphen"/>ne, and that they mater ſoone, it is token of good lykelyhod of cure, by<g ref="char:EOLunhyphen"/>cauſe the criſes or corrupte humours that they are gendred of, is good to hele. But yf they turne towarde the
+<pb facs="tcp:180799:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:180799:6" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:180799:7"/> colour of Violettes, yelowe or grene, eyther blacke. All theſe are the worſt and deadly. Yf a poyſyn or venomous matier apere, it is deadly? Yf they a<g ref="char:EOLhyphen"/>pere ſomtyme and ſomtyme are hyd, that is the worſt ſygne of all. Alſo yf the pacyent can not well drawe his breth it is a very yll ſygne, but yf he may drawe his breth, well, and is w<hi rend="sup">t</hi> out feuer, it is a good ſygne. But yf the Ague be ſtronge with the pockes, and great anguyſſhe, and vehement thruſt, of weke ſtrength and the breth bounde. It is a token that he ſhall dye ſoone. As commonly they dye by ſtoppynge of theyr breth. Yf pantyng ouer all, it is very euyll. And yf his Vryne be blacke or grene, and yf the egeſtion be grene. Theſe ar worſt and deadly Sygnes, and ſo is laſke with Pockes.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of Poyſon.</head>
+            <pb facs="tcp:180799:7" rendition="simple:additions"/>
+            <p>THeſe are deadly ſygnes, he that receyueth poyſon, yf the apple of his eye be hyd, and the whyte of his eyes doth apere onely ſwellyng of his face and throte, and chaungynge of colour into yelowe or blacke, and gre<g ref="char:EOLunhyphen"/>nenes, or blackenes of tonge, and put<g ref="char:EOLunhyphen"/>tynge out of it, and very moche ſpyt<g ref="char:EOLhyphen"/>tyng payne of his guttes, the crampe and pantyng. Theſe ſygnifyeth death within certayne yeares.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of Impoſtumes.</head>
+            <p>SOme Impoſtumes ar ended by in ſenſyble reſolucion, and is verye good, and ſome be poyſon matiryng, and that is worſt, ſome by meane lau<g ref="char:EOLunhyphen"/>dable matyrynge, and that is good, and ſome by grauell and hardenes, and that is yll. Some Impoſtumes are of hote matier, and they are en<g ref="char:EOLhyphen"/>ded in a daye. And ſome are of colde matier and they are ended in the .40.
+<pb facs="tcp:180799:8"/> day, alſo euery Impoſtume of aduſte matier, as Antrax, Cabutulus, and Formica, are worſt and mortall, and yf theſe be with Ague, the pacient eſ<g ref="char:EOLhyphen"/>capeth but ſylde, and yf it be in pla<g ref="char:EOLhyphen"/>ces ſtreyght agaynſt the harte, or a<g ref="char:EOLhyphen"/>boute it is mortall and yf it vanyſhe away ſodenly it is deadly, and yf the matier turne to the inwarde partes, than the pacyent bereth dothe vpon his Feete.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Morphewe.</head>
+            <p>YF the morphewe be newe it is cu<g ref="char:EOLunhyphen"/>rable, or els it is vncurable. If the Morphewe occupy but a lytell ſpa<g ref="char:EOLunhyphen"/>ce it is rurable, and yf it be of a great ſpace it is harde of cure. Yf the place of the Morphewe be prycked with a Nedle in the ouer parte of the ſkynne onely, ſo that it doth not paſſe far<g ref="char:EOLhyphen"/>ther than thorowe the ſkynne, and yf
+<pb facs="tcp:180799:8" rendition="simple:additions"/> blode come<g ref="char:cmbAbbrStroke">̄</g> forth it is curable, and yf watrenes come, it is vncurable.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of woundes ſtrokes and ſtrypes.</head>
+            <p>WOundes of the inwarde parte, or bowelles with ſnyuyll or perbre<g ref="char:EOLhyphen"/>kynge, and laſke is very euyll, and yf the Crampe come with / as happon commenly they dyeth, and yf they ha<g ref="char:EOLhyphen"/>ue pantynge with ſownynges, death is at hande.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of whelkes.</head>
+            <p>ALl whelkes yf they be not ma<g ref="char:EOLhyphen"/>de clene, but lefte neclygentlye, they turne to ſcabbes, and yf it be of a colde cauſe, it groweth to Tetters, Ryngwormes and other yll acciden<g ref="char:EOLhyphen"/>tes. And yf it be of flewme after the ſcabbe, it is turned to Fiſtula, and yf
+<pb facs="tcp:180799:9"/> it be of melancoly, ſuche are of harde cure, and yf they be let paſſe necligent<g ref="char:EOLunhyphen"/>ly, they growe to a Canker.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the ſcall.</head>
+            <p>THe ſcall that is eyther newe, or olde, and yf it be newe it is lyght<g ref="char:EOLunhyphen"/>ly heled, &amp; yf it be holde, it is heled w<hi rend="sup">t</hi> great labour, or in a very longe tyme for the yll applexcion commeth to ſo great aduſtion that it wyll not take healynge. And therfore yf it be healed the heare groweth but ſylde in that place. And that place ſhall be weaker alway, and yf they be heled it ſhall be rebuke to them. For they ſhall be cal<g ref="char:EOLhyphen"/>led pyllardes.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the frenſy.</head>
+            <p>GAlyen in his pronoſtyckes vpon that parte ſayth mouyng of han<g ref="char:EOLunhyphen"/>des
+<pb facs="tcp:180799:9" rendition="simple:additions"/> doth ſygnyfye that deſeaſe. And where he ſayth that frenſy is perlous in euery kynde of it. That frenſy is worſt that is in the ſubſtaunce of the maries, and the nexte that is worſt whiche is the meke mother, or faſt mother. Then that is in the hard mo<g ref="char:EOLunhyphen"/>ther. But that frenſy that is of the rede and aduſte or burnyd coloure is worſt of all. Then that which is next to the aduſte colour. Then that whi<g ref="char:EOLhyphen"/>che is of blode. Then that whiche is of citryne colour &amp; ſo of other. Theſe are ſygnes of death. Whan the Vry<g ref="char:EOLunhyphen"/>ne is fyrſt well coloured and after is of whyte colour and thyn and continu<g ref="char:EOLunhyphen"/>ally ſo or other wyſe alyenated from perfyte colour, and contynuall wat<g ref="char:EOLhyphen"/>chynge. Lykewyſe yf Vryne be holden and ſyckely, and yf the pacyent haue the crampe, and yf the legges be ſtrat<g ref="char:EOLunhyphen"/>chyd out and cannot be bowed well / and whan they are ſtratchyd they can<g ref="char:EOLunhyphen"/>not be well bowed, and yf a blode a<g ref="char:EOLhyphen"/>pere
+<pb facs="tcp:180799:10"/> in the thombe and yf ſownynges chaunce to the pacient, and whan the<g ref="char:EOLunhyphen"/>ſe ſygnes doth apere, then death ſyt<g ref="char:EOLhyphen"/>teth at his feete. Therfore a perhien is neceſſarye.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the ſyckenes cal<g ref="char:EOLunhyphen"/>led in laten. Scotomia. For theſe are coſyns and louers of the fallyng ſyckenes Apolen<g ref="char:EOLhyphen"/>cia &amp; Apoplexia.</head>
+            <p>WHERfore whan they multyplye theyr euyll deſpoſſyon they falle in to it. Therfore euery man ought to take hede dylygently for them.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of litargy or lyghtenes in the heade.</head>
+            <p>COlde ſwete in the heade ſygnyfy<g ref="char:EOLunhyphen"/>eth death. And yf a horſe leche be put to his forheade yf he cleue not to, it ſygnyfyeth death, and yf there be
+<pb facs="tcp:180799:10" rendition="simple:additions"/> none of theſe ſygnes, and the acciden<g ref="char:EOLunhyphen"/>tes begyn to metigate contynually &amp; natural vertue to be ſtronge, it is a to<g ref="char:EOLunhyphen"/>ken of cure, or health nere at hande.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of Epyelnſia or of the fallynge euyll.</head>
+            <p>YF a woman with childe chaunce to haue the fallyng euyll. Yf ſhe be delyuered of the chylde, ſhe ſhalbe heled and delyuered alſo of the ſycke<g ref="char:EOLhyphen"/>nes. And yf the whyte Morphewe chaunce to come in her hede it is a to<g ref="char:EOLunhyphen"/>ken of helth, and yf the chylde take a<g ref="char:EOLunhyphen"/>ny parte of y<hi rend="sup">e</hi> deſeaſe, in the mothers wombe and vomete after and purge hym and auoyde moche ſuperfluouſe watry humours it is a token that he is dlyuered of it, and yf not, not yf a man doubte whether one be delyuered of the epilence or not, fumigate him w<hi rend="sup">t</hi> gotes hornes, and yf he fall not he is heled. But yf he fall, he is not hole.</p>
+         </div>
+         <div type="prognostication">
+            <pb facs="tcp:180799:11"/>
+            <head>¶ Pronoſticacion of Appoplexio.</head>
+            <p>AFter Ipocras and Auicen dyd Pronoſticke. I ſay that I ſawe many that had that deſeaſe, but of Trueth I neuer ſawe any eſcape it. Therfore Lorde delyuer vs from ſo<g ref="char:EOLhyphen"/>dayne and euerlaſtynge death.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Palſey.</head>
+            <p>YF grene Vryne apere in a chylde that hath the Ague, it betoke<g ref="char:EOLhyphen"/>neth that he ſhall haue the palſey, or the Crampe. It is harde to hele the palſey in aged people, or neuer, yf trem<g ref="char:EOLunhyphen"/>blyng come vpon the palſey it is good yf the palſey come of moch diſordring or ſtraynyng of the ſynewes, or of mo<g ref="char:EOLunhyphen"/>che byndynge of the ſynewes, or bre<g ref="char:EOLhyphen"/>kynge, or brekynge or cuttynge, it ta<g ref="char:EOLhyphen"/>keth not cure by the contrary. And yf
+<pb facs="tcp:180799:11" rendition="simple:additions"/> the membre that hath the palſey be moche laſſe. It is very yll, and yf not it is to hope of cure.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Crampe.</head>
+            <p>THe crampe that commeth of re<g ref="char:EOLhyphen"/>pleniſhyng, or fyllyng is curable for it is lyghter to dry a moyſte thyn<g ref="char:EOLunhyphen"/>ge, than to make moyſte a drye thyng as is wrytten in the .7. Chapi. of the Ingony. The crampe of woundes is dedly. The crampe of inaniton is al<g ref="char:EOLhyphen"/>ſo dedly. The crampe after feuers is dedly. The crampe after pryckyng of ſynewes is curable.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of Tremblynge.</head>
+            <p>TRemblynge is the waye for the crampe and palſey. It is not cu<g ref="char:EOLunhyphen"/>rable in aged people. Tremblynge is
+<pb facs="tcp:180799:12"/> worſe in the left ſyde, than in y<hi rend="sup">e</hi> ryght ſyde, after Auicen. Tremblyng in the lower lyppe betokeneth vomet.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of bledyng at the noſe trylles.</head>
+            <p>BLedynge at the noſe whiche com<g ref="char:EOLunhyphen"/>meth of any cauſe of the brayne, is cured hardly or neuer. Bledyng at the noſe whiche enlargeth it to .4. li. is yll, and yf it enlarge to, or aboue .8. it is of moſt great daunger. And yf it paſſe aboue .xx. the pacient can liue no longer. The bledyng which endureth tyll the pale, or grene colour, or wan, or browne colour, is worſt and dedly. The bledyng that cauſeth ſownes is dedly. Bledynge with colde of the ne<g ref="char:EOLhyphen"/>ther partes is dedly. Euery bledynge that commeth ſodenly or with great haſte is yll. All bledyng with lyghte<g ref="char:EOLhyphen"/>nyng of the pacient is good.</p>
+         </div>
+         <div type="prognostication">
+            <pb facs="tcp:180799:12" rendition="simple:additions"/>
+            <head>¶ Pronoſticacion of Neſynge.</head>
+            <p>NEſynge in the ende of ſyckeneſſe is a good ſygne after Galien, ne<g ref="char:EOLunhyphen"/>ſynge with rewme is yll, and in a full body and in a hote cauſe, and in ſyg<g ref="char:EOLhyphen"/>nes that betokeneth an euyll cauſe in the head hurtyng the head and yll in reaſon of the cauſe, for ouer moche ne<g ref="char:EOLunhyphen"/>ſynge fylleth the head, and alſo cau<g ref="char:EOLhyphen"/>ſeth ſwymmynge in the head and the deſeaſe called ſcotomia in laten and other lyke. Yf neſynge be prouoked in any ſyckenes in which it ought to be prouoked and yf the pacient doth not neſe, he ſhall neuer be hole. And yf he be prouoked with thynges of ſtronge vertue, as is. Eleborus, Albus, Pep<g ref="char:EOLhyphen"/>per, Caſtory, Muſtard ſede, Euforbi<g ref="char:EOLhyphen"/>um and other lyke.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the de<g ref="char:EOLhyphen"/>ſeaſe of the tonge.</head>
+            <pb facs="tcp:180799:13"/>
+            <p>IN the ſharpe Ague a blacke whel<g ref="char:EOLhyphen"/>ke aperynge vpon the tonge is ſyg<g ref="char:EOLhyphen"/>ne of death. In the ſharpe Ague blac<g ref="char:EOLhyphen"/>kenes of the tonge &amp; vlteracion is yll.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of payne in the teth.</head>
+            <p>IN the Feuers hurte, greuenes, and blackenes, by reaſon of the Ague or feuers is the worſt ſygne. Slymenes in the teth with Ague betokeneth lon<g ref="char:EOLunhyphen"/>ge ſyckenes. In the contynuall feuers yf the teth be drye as a ſtycke it is the worſt ſygne and it is dedly.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the ſquance.</head>
+            <p>THeſe ar yll ſygnes in the ſquance and they are daungerous &amp; ded<g ref="char:EOLhyphen"/>ly. But whan the ſquance co<g ref="char:cmbAbbrStroke">̄</g>meth in the continual feuers in a perlous day called in laten. Dies ceticus. Then
+<pb facs="tcp:180799:13" rendition="simple:additions"/> chaunceth to the pacyent a vehement entraunce, difficulte to ſwalowe mete ſo that he caſteth drinke out agayn at his noſe thrylles, and hath a ſhyll voy<g ref="char:EOLunhyphen"/>ce ſo, that he ſowneth to ſpeake with his noſe thrylles, he ſhall haue Fome in his mouth, and put out his tonge, and wyll moue it ofte in puttyng out. As apereth in a horſe that he is wery his mouth beyng full of fome he ſhal haue a wan blacke colour, he ſhall ha<g ref="char:EOLunhyphen"/>ue the toppe of his tonge, lyppes, and eyes colde. He wyll drawe into hy<g ref="char:cmbAbbrStroke">̄</g> his necke, and ſhall be in ſuche caſe with payne that he cannot lye on his backe and eſpecially yf the ſquance be in the wayes of the breth, for whan it is in wayes of the mete, great payne is to ſwalowe the mete. Howbeit ſomtyme the both chaunſeth. Theſe are ſygnes of the ſquance whiche is hyd within, that cannot be ſene. Reſtraynynge of the breth, and whan the pacient dryn<g ref="char:EOLunhyphen"/>keth water, he auoydeth towarde the
+<pb facs="tcp:180799:14"/> noſe thrylles, and the eyes are red, the tonge roughe, the necke roughe, and voyce ſhyll. The Squance commeth commenly in the ſprynge tyme. And that is moſt perlous that commeth with an Ague, but yf the liuely ſygnes are well, that is to ſay reſt, ſlepe, lytel payne, good breth, good ſwalowynge of meate. And if none of the yll ſygnes apere whiche are ſpoken before than it is lyghtly curable.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of horſe<g ref="char:EOLhyphen"/>nes of Voyce</head>
+            <p>HOrſenes in olde men is neuer he<g ref="char:EOLunhyphen"/>led, oneles it be very new. Horſe taketh not cure after one yeare. Horſe whiche commeth by occaſyon of rew<g ref="char:EOLhyphen"/>me is neuer heled except the rewme be fyrſte heled. Whan a man is rewma<g ref="char:EOLhyphen"/>tycke and horſe and yf he be letyn blod whan he is horſe, ſcante or neuer ſhal he be healed.</p>
+         </div>
+         <div type="prognostication">
+            <pb facs="tcp:180799:14" rendition="simple:additions"/>
+            <head>¶ Pronoſticacion of the coughe commynge in Idropyſy is euyll.</head>
+            <p>MOche Coughynge with payne / and grefe, and with moche pro<g ref="char:EOLhyphen"/>uokynge and horſenes and rednes of eyes, with lytell auoydyng is yll. And yf it be ofte it cauſeth rupture eyther borſtines and then it ſygnifieth deth. Who ſo hath the Ague and cough to<g ref="char:EOLunhyphen"/>gyther and yf the Ague ceaſe, and the coughe remayne it is token of recor<g ref="char:EOLhyphen"/>dynge, who ſo hath the moyſte coughe and it ceaſe ſodenly with grefe which remayneth in the breeſt. It be toke<g ref="char:EOLhyphen"/>neth that they haue the putryde ague eyther vlteracion of the lunges. For euery matyer that is mouyd by rea<g ref="char:EOLhyphen"/>ſon of the cough, and hath no paſſage forth the ſcrinth beyng weke it is ded<g ref="char:EOLunhyphen"/>ly, for it choketh the way of the breth.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of Tyſycke.</head>
+            <pb facs="tcp:180799:15"/>
+            <p>THE olde Tyſycke taketh no cure. For Auicen ſayth that he ſawe one that had the Tyſycke whoſe lyfe was prolonged by .20. yeres, and Aui<g ref="char:EOLhyphen"/>cen ſayth yf whelkes apere vpon his ſhulder blades, he ſhall dye within .52. dayes. Tokens that ſheweth hym that hath the tyſycke which ſhall dye ſhortly, is fallynge of his heare, cro<g ref="char:EOLhyphen"/>kynge of his nayles, goyng awaye of his appetyte, hardenes to drawe his breth, holdyng of ſpyttyll, laſke, and ſwellynge of his legges. And moſt co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mynly they whiche haue the Tyſycke hath it at fallyng of the lefe, therfore a man ought to be well ware in pro<g ref="char:EOLhyphen"/>noſticacion of tyſycke. For in ſpekyng they dye and in dyenge they ſpeke.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of pantynge.</head>
+            <p>WHo ſo ſuffreth tremblynge of the harte a longe tyme, and yf pan<g ref="char:EOLhyphen"/>tynge
+<pb facs="tcp:180799:15" rendition="simple:additions"/> come ſodeynly the beſynes is ſped. For the cauſe is proporcionate, yf any man ſuffre longe pantyng and coloure of his face be chaunged in to palenes, grenes, or blackenes, he ſhall neuer trede earth. Yf pantynge come ſodenly and without any manyfeſt cauſe. And yf the pantynge be longe. The matter is ended. Yf a neſyng me<g ref="char:EOLunhyphen"/>dycyne be miniſtred to hym that hath pantynge, yf the poudre be caſt in his noſe thrylles, and yf he doth not neſe, there is no Counſeyle, but that the body nede no medycyne.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the haſty ap<g ref="char:EOLhyphen"/>petyte called the Dogges appetyte.</head>
+            <p>THE haſty appetyte commeth of rewme but ſylde, yf the haſty ap<g ref="char:EOLhyphen"/>petyte contynue, it bryngth the pacy<g ref="char:EOLhyphen"/>ent to a deſeaſe called in laten boliſi<g ref="char:EOLhyphen"/>nus. And boliſinus bryngeth hym in
+<pb facs="tcp:180799:16"/> to a pantynge hunger. And that hun<g ref="char:EOLunhyphen"/>ger to death, therfore watche &amp; pray.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of thurſte.</head>
+            <p>YF thurſt in the ague with drynes of the body. It is very yll, yf one that hath the Ague thurſte moche. And yf the thurſt ceſe ſodenly, and the Ague remayneth, and yf the tonge be dry and blacke. It betokeneth death without doubte.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the Yockes.</head>
+            <p>YF the Yockes be in the token cal<g ref="char:EOLunhyphen"/>led in laten Criſis, with good ſig<g ref="char:EOLunhyphen"/>nes aperynge it is good. For it beto<g ref="char:EOLhyphen"/>keneth criſis by vomete. And yf the crampe come after the yockes or alienacion, it is a very yll toke<g ref="char:cmbAbbrStroke">̄</g>. Yf it come after a purgacion be mynyſtred. Yoc<g ref="char:EOLhyphen"/>kes after vomet is yll.</p>
+         </div>
+         <div n="belching" type="prognostication">
+            <pb facs="tcp:180799:16" rendition="simple:additions"/>
+            <head>¶ Nanſe in laten, belchynge in Englyſſhe.</head>
+            <p>WHo ſoeuer hath this accuſtoma<g ref="char:EOLhyphen"/>bly, can not auoyde the dyſeaſe called in laten catochia ydeapſy, ſwel<g ref="char:EOLunhyphen"/>lynge of fete, face, and eyes. &amp;c.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of Vomete.</head>
+            <p>VOmete may be a good Sygne, and an yll ſygne. In this wyſe it may be a good ſygne. Whan vo<g ref="char:EOLhyphen"/>met chaunceth in the Ague in the dau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>gerous day called dies cetica. And of tokens of degeſtion, and with lyghte<g ref="char:EOLhyphen"/>nynge it is alwayes good. But yf it come in a day whiche is not daunge<g ref="char:EOLhyphen"/>rous and no ſygnes of degeſtyon ape<g ref="char:EOLunhyphen"/>re and with grefe and payne it is yll.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of payne in the Bowelles.</head>
+            <pb facs="tcp:180799:17"/>
+            <p>FYrſt it is to be knowen that payne in the bowelles is alſo dyſeaſe of the ſtomacke with pryckyng, and an<g ref="char:EOLhyphen"/>guyſhe, with vnquyetnes, vehemente malyce, and chaungynge of beddes, by reaſon of the colere and the humou<g ref="char:EOLunhyphen"/>re that is cloſed in the bowelles. But yf laſke come vpon this ſyckenes it is good. And yf it come with byndynge more anguyſſhe is in it, alſo it is to vnderſtande that they whiche haue this dyſeaſe. Or yf they haue a weke ſtomacke and thyn bowelles, or not. Yf it be the fyrſt waye. And yf the ſyc<g ref="char:EOLunhyphen"/>kenes co<g ref="char:cmbAbbrStroke">̄</g>tynue long, they fall into pan<g ref="char:EOLunhyphen"/>tyng and ſo dieth and can not eſcape.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of the ſycke<g ref="char:EOLhyphen"/>nes of the lyghtes called in laten lienteria.</head>
+            <p>YF the colycke come oft it is moſt worſt and deadly. Yf the dyſeaſe of the lyghtes beforeſayde come after
+<pb facs="tcp:180799:17" rendition="simple:additions"/> dyſeaſe of the diſeaſe of the bowelles (whiche is with a peryllous Flyxe) it is deadly by reaſon that the rewme was not at the begynnyng, it is good in euery flyx of the bely. For thynges degeſtine may be purged and degeſted ſomtyme by a daungerous way, and therfore it is good.</p>
+         </div>
+         <div type="prognostication">
+            <head>¶ Pronoſticacion of dyſſen<g ref="char:EOLhyphen"/>tria which is a peryllous flyx from the bo<g ref="char:EOLhyphen"/>welles.</head>
+            <p>EVery flyx of the belly, and euery maſyege commyng of the burned colere, or burned Melancoly, whiche is eaſt vpon the earth, burneth as ve<g ref="char:EOLunhyphen"/>nygre. Wherfore flyes flyeth from it Yf it come in the begynnynge of the ſyckenes, it is deadly.</p>
+         </div>
+         <trailer>¶ Finis</trailer>
+         <closer>
+            <signed>ꝙ. R. w.</signed>
+         </closer>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:180799:18"/>
+            <p>¶ <hi>Imprynted by me Robert Wyer.</hi>
+            </p>
+            <p>¶ Cum priuilegio, ad impri<g ref="char:EOLhyphen"/>mendum ſolum.</p>
+            <figure>
+               <figDesc>Robert Wyer's device</figDesc>
+               <head>ROBERT WYER.</head>
+            </figure>
+            <pb facs="tcp:180799:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
